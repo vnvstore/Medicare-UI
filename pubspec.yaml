@@ -1,7 +1,7 @@
 name: medicare
 description: Doctor Appointment App
 publish_to: "none"
-version: 0.9.0+1
+version: 0.9.0+3
 environment:
   sdk: ">=2.15.1 <3.0.0"
 dependencies:
